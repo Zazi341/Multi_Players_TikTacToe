@@ -1,0 +1,9 @@
+HOST = '127.0.0.1'
+PORT = 65432
+FORMAT = "utf-8"
+ADDR = (HOST, PORT)
+MOVE_TIMEOUT = 1000
+DATABASE_FILE = "tictactoe.db"
+key = b'\x04\x03|\xeb\x8dSh\xe0\xc5\xae\xe5\xe1l9\x0co\xca\xb1"\r-Oo\xbaiYa\x1e\xd1\xf7\xa2\xdf'
+iv = b'\xb59\xee\xa7\xc4@n\xe5r\xac\x97lV\xff\xf1'
+SQL_PATH = ""
